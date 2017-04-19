@@ -1,0 +1,27 @@
+{
+  "name": "XToast",
+  "homepage": "http://princekin.tjxuechuang.com/projects/Xtoast",
+  "authors": [
+    "wudengke <2889110370@qq.com>"
+  ],
+  "description": "通知插件",
+  "main": "xtoast.js",
+  "keywords": [
+    "inform",
+    "toast"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.4"
+  },
+  "devDependencies": {
+    "animate.css": "^3.5.2"
+  }
+}
